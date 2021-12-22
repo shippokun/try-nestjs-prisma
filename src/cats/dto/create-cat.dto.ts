@@ -1,1 +1,3 @@
-export class CreateCatDto {}
+export class CreateCatDto {
+  text: string;
+}
